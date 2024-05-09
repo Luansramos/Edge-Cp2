@@ -1,6 +1,6 @@
 # O Caso da Vinheiria Agnello - Edge Computing Checkpoint 2
 
-Esse é um projeto desenvolvido para poder gerenciar os fatores de que podem influenciar na qualidade do vinho como: Luminosidade, Temperatura e Umidade. O projeto utiliza um DHT22 para medir esses fatores, e um sistema de leds compostos de 3 leds e um display LCD para mostrar a qualidade do ambiente. Além disso, há uma bozina para saor um alerme quando as condiçôes do ambiente estiverem impropriar 
+Esse é um projeto desenvolvido para poder gerenciar os fatores de que podem influenciar na qualidade do vinho como: Luminosidade, Temperatura e Umidade. O projeto utiliza um DHT22 para medir esses fatores, e um sistema de leds compostos de 3 leds e um display LCD para mostrar a qualidade do ambiente. Além disso, há um buzzer para saor um alerme quando as condiçôes do ambiente estiverem impropriar 
 
 ## integrantes :
 
